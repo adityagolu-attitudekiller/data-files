@@ -1,0 +1,11 @@
+links:-
+
+Tv data - http://www-bcf.usc.edu/~gareth/ISL/Advertising.csv
+
+http://bit.ly/chiporders
+
+http://bit.ly/movieusers
+
+http://bit.ly/imdbratings
+
+http://bit.ly/drinksbycountry
